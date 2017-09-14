@@ -1,6 +1,6 @@
 ## Parliament App
 
-#Run project
+**Run project**
 
 1. Install `docker` and `docker-compose`
 2. `npm install`
